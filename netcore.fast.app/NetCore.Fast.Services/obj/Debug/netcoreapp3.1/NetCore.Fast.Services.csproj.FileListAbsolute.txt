@@ -1,0 +1,16 @@
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Services.deps.json
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Services.dll
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Services.pdb
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\obj\Debug\netcoreapp3.1\NetCore.Fast.Services.AssemblyInfoInputs.cache
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\obj\Debug\netcoreapp3.1\NetCore.Fast.Services.AssemblyInfo.cs
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\obj\Debug\netcoreapp3.1\NetCore.Fast.Services.dll
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\obj\Debug\netcoreapp3.1\NetCore.Fast.Services.pdb
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Entities.dll
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Infrastructure.dll
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Utility.dll
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Entities.pdb
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Infrastructure.pdb
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\bin\Debug\netcoreapp3.1\NetCore.Fast.Utility.pdb
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\obj\Debug\netcoreapp3.1\NetCore.Fast.Services.csprojAssemblyReference.cache
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\obj\Debug\netcoreapp3.1\NetCore.Fast.Services.csproj.CopyComplete
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Services\obj\Debug\netcoreapp3.1\NetCore.Fast.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2gvh0B1NCKeyNI5DZe1qwRs28MjJ7wvGN5G5FSQEyN7JDH4iYQv8HgbnWlpSA3rryEN6Fgguv+Qkif1u+aBQyg==",
+  "success": true,
+  "projectFilePath": "E:\\数字岩土\\MyGit\\MyStudySpace\\NetCore.Fast\\NetCore.Fast.App\\NetCore.Fast.Entities\\NetCore.Fast.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gerdon\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\Gerdon\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512",
+    "C:\\Users\\Gerdon\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gerdon\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gerdon\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

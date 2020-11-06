@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.WebApi\NetCore.Fast.WebApi.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspectCore.Extensions.Hosting" Version="2.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.9" />
+    <PackageReference Include="NLog.Config" Version="4.7.5" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.9.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetCore.Fast.Infrastructure\NetCore.Fast.Infrastructure.csproj" />
+    <ProjectReference Include="..\NetCore.Fast.Services\NetCore.Fast.Services.csproj" />
+    <ProjectReference Include="..\NetCore.Fast.Utility\NetCore.Fast.Utility.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,9 @@
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\bin\Debug\netcoreapp3.1\NetCore.Fast.Entities.deps.json
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\bin\Debug\netcoreapp3.1\NetCore.Fast.Entities.dll
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\bin\Debug\netcoreapp3.1\NetCore.Fast.Entities.pdb
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\obj\Debug\netcoreapp3.1\NetCore.Fast.Entities.csprojAssemblyReference.cache
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\obj\Debug\netcoreapp3.1\NetCore.Fast.Entities.AssemblyInfoInputs.cache
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\obj\Debug\netcoreapp3.1\NetCore.Fast.Entities.AssemblyInfo.cs
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\obj\Debug\netcoreapp3.1\NetCore.Fast.Entities.dll
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\obj\Debug\netcoreapp3.1\NetCore.Fast.Entities.pdb
+E:\数字岩土\MyGit\MyStudySpace\NetCore.Fast\NetCore.Fast.App\NetCore.Fast.Entities\obj\Debug\netcoreapp3.1\NetCore.Fast.Entities.csproj.CoreCompileInputs.cache
